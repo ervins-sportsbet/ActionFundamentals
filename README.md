@@ -40,7 +40,7 @@ Please follow [these instructions](GettingReady.md) and make sure you have set u
 - [ ] Using the GitHub API and Octokit
 - [ ] Job descriptions
 
-### Day 2
+### Day 2 🚀
 - [ ] Introduction
 - [ ] Actions for CI/CD
 - [ ] Permissions for GitHub Token
